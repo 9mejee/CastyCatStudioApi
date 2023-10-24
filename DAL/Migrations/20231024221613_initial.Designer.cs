@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DAL.Migrations
 {
     [DbContext(typeof(CatsyCatDbContext))]
-    [Migration("20221220172425_Initial-Schema")]
-    partial class InitialSchema
+    [Migration("20231024221613_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -44,7 +44,7 @@ namespace CatsyCatStudio.Controllers
                 }
 
                 bool isExists = await _productService.IsExists(product);
-                return isExists ? (ActionResult<ProductDto>)Conflict() : (ActionResult<ProductDto>)Ok(await _productService.AddAsync(product));
+                return isExists ? Conflict() : Ok(await _productService.AddAsync(product));
             }
             catch (Exception ex)
             {
@@ -71,7 +71,7 @@ namespace CatsyCatStudio.Controllers
                 }
 
                 ProductDto dto = await _productService.GetByIdAsync(product.Id);
-                return dto is null ? (ActionResult<ProductDto>)NotFound() : (ActionResult<ProductDto>)Ok(await _productService.UpdateAsync(product));
+                return dto is null ? NotFound() : Ok(await _productService.UpdateAsync(product));
             }
             catch (Exception ex)
             {

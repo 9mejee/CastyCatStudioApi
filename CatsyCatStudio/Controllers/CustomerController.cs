@@ -45,7 +45,7 @@ namespace CatsyCatStudio.Controllers
                 }
 
                 bool isExists = await _customerService.IsExists(customer);
-                return isExists ? (ActionResult<CustomerDto>)Conflict() : (ActionResult<CustomerDto>)Ok(await _customerService.AddAsync(customer));
+                return isExists ? Conflict() : Ok(await _customerService.AddAsync(customer));
             }
             catch (Exception ex)
             {
@@ -72,7 +72,7 @@ namespace CatsyCatStudio.Controllers
                 }
 
                 CustomerDto dto = await _customerService.GetByIdAsync(customer.Id);
-                return dto is null ? (ActionResult<CustomerDto>)NotFound() : (ActionResult<CustomerDto>)Ok(await _customerService.UpdateAsync(customer));
+                return dto is null ? NotFound() : Ok(await _customerService.UpdateAsync(customer));
             }
             catch (Exception ex)
             {

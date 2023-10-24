@@ -22,3 +22,15 @@ C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEnti
 C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\refint\DomainEntities.dll
 C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.pdb
 C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\ref\DomainEntities.dll
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\bin\Debug\net6.0\DomainEntities.deps.json
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\bin\Debug\net6.0\DomainEntities.dll
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\bin\Debug\net6.0\DomainEntities.pdb
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\obj\Debug\net6.0\DomainEntities.csproj.AssemblyReference.cache
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\obj\Debug\net6.0\DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\obj\Debug\net6.0\DomainEntities.AssemblyInfoInputs.cache
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\obj\Debug\net6.0\DomainEntities.AssemblyInfo.cs
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\obj\Debug\net6.0\DomainEntities.csproj.CoreCompileInputs.cache
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\obj\Debug\net6.0\DomainEntities.dll
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\obj\Debug\net6.0\refint\DomainEntities.dll
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\obj\Debug\net6.0\DomainEntities.pdb
+D:\NoumanMalik\repos\Git Projects\CastyCatStudioApi\DomainEntities\obj\Debug\net6.0\ref\DomainEntities.dll
