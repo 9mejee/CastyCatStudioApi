@@ -1,0 +1,38 @@
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DAL.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DomainEntities.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DTO.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DomainEntities.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DTO.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DAL\obj\Debug\net6.0\ref\DAL.dll

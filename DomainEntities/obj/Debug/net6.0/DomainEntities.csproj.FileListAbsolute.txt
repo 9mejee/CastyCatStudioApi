@@ -1,0 +1,24 @@
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\bin\Debug\net6.0\DomainEntities.deps.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\bin\Debug\net6.0\DomainEntities.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\bin\Debug\net6.0\DomainEntities.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.csproj.AssemblyReference.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.AssemblyInfoInputs.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.AssemblyInfo.cs
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.csproj.CoreCompileInputs.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\refint\DomainEntities.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\ref\DomainEntities.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\bin\Debug\net6.0\DomainEntities.deps.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.csproj.AssemblyReference.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.AssemblyInfoInputs.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.AssemblyInfo.cs
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.csproj.CoreCompileInputs.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\refint\DomainEntities.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\DomainEntities.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DomainEntities\obj\Debug\net6.0\ref\DomainEntities.dll

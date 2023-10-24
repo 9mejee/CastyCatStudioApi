@@ -1,0 +1,24 @@
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\bin\Debug\net6.0\DTO.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\bin\Debug\net6.0\DTO.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\DTO\obj\Debug\net6.0\ref\DTO.dll

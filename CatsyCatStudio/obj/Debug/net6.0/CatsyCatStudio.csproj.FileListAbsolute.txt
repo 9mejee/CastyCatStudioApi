@@ -1,0 +1,160 @@
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\appsettings.Development.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\appsettings.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.exe
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.deps.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.runtimeconfig.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Humanizer.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DAL.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DomainEntities.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DTO.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DAL.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DomainEntities.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DTO.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.csproj.AssemblyReference.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.AssemblyInfoInputs.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.AssemblyInfo.cs
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.csproj.CoreCompileInputs.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.MvcApplicationPartsAssemblyInfo.cs
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.MvcApplicationPartsAssemblyInfo.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\scopedcss\bundle\CatsyCatStudio.styles.css
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.csproj.CopyComplete
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\refint\CatsyCatStudio.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.pdb
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.genruntimeconfig.cache
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\ref\CatsyCatStudio.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Tutorials\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\appsettings.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.exe
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.deps.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.runtimeconfig.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\CatsyCatStudio.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Humanizer.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DAL.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DomainEntities.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DTO.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DAL.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DomainEntities.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\bin\Debug\net6.0\DTO.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.csproj.AssemblyReference.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.AssemblyInfoInputs.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.AssemblyInfo.cs
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.csproj.CoreCompileInputs.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\scopedcss\bundle\CatsyCatStudio.styles.css
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.csproj.CopyComplete
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\refint\CatsyCatStudio.dll
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.pdb
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\CatsyCatStudio.genruntimeconfig.cache
+C:\Users\NoumanMalik\Desktop\New folder\CatsyCatStudio\CatsyCatStudio\CatsyCatStudio\obj\Debug\net6.0\ref\CatsyCatStudio.dll
